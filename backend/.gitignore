@@ -1,0 +1,36 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Environment variables
+.env
+.flaskenv
+
+# Virtual environment
+venv/
+env/
+.virtualenv/
+
+# Logs
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Database files (if any)
+*.sqlite3
+*.db
+
+# Testing and coverage
+.pytest_cache/
+coverage/
